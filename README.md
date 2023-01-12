@@ -1,6 +1,6 @@
 **Validación de Número de Seguridad Social (NSS) en C#**
 
-Este repositorio contiene un ejemplo de un algoritmo para validar el Número de Seguridad Social (NSS) en C#. El algoritmo utiliza una expresión regular para comprobar si el NSS está en el formato correcto (xxx-xx-xxxx) y luego divide el NSS en partes para comprobar cada una de ellas individualmente para asegurarse de que cumplen las condiciones específicas.
+Este repositorio contiene un ejemplo de un algoritmo para validar el Número de Seguridad Social (SSN) en C#. El algoritmo utiliza una expresión regular para comprobar si el NSS está en el formato correcto (xxx-xx-xxxx) y luego divide el NSS en partes para comprobar cada una de ellas individualmente para asegurarse de que cumplen las condiciones específicas.
 
 **Uso**
 
