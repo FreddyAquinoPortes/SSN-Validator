@@ -7,9 +7,9 @@ namespace SSN_VAlIDATOR
         static void Main(string[] args)
         {
             string ssn = "xxx-xx-xxxx";
-            string respuesta = "n";
+            string respuesta = "r";
 
-            while (true)
+            while (respuesta !="n")
             {
 
 
